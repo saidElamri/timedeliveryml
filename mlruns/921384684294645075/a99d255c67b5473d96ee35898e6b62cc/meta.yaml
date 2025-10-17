@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/dickson/Delivery/mlruns/921384684294645075/a99d255c67b5473d96ee35898e6b62cc/artifacts
+end_time: 1760732119119
+entry_point_name: ''
+experiment_id: '921384684294645075'
+lifecycle_stage: active
+run_id: a99d255c67b5473d96ee35898e6b62cc
+run_name: RandomForest_Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760732119075
+status: 4
+tags: []
+user_id: dickson

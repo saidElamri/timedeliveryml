@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/dickson/Delivery/mlruns/921384684294645075/models/m-7e1048a221a4480aa12c77bc06597320/artifacts
+creation_timestamp: 1760732954546
+experiment_id: '921384684294645075'
+last_updated_timestamp: 1760732958351
+model_id: m-7e1048a221a4480aa12c77bc06597320
+model_type: null
+name: SVRPipeline
+source_run_id: 887b2815cd024ee9a0dabe97c8667264
+status: 2
+status_message: null

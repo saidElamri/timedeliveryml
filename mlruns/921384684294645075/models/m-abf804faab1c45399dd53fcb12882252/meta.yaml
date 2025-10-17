@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/dickson/Delivery/mlruns/921384684294645075/models/m-abf804faab1c45399dd53fcb12882252/artifacts
+creation_timestamp: 1760732949916
+experiment_id: '921384684294645075'
+last_updated_timestamp: 1760732954009
+model_id: m-abf804faab1c45399dd53fcb12882252
+model_type: null
+name: RandomForestPipeline
+source_run_id: 18753ee910f846c69b8154eb8ad771c1
+status: 2
+status_message: null

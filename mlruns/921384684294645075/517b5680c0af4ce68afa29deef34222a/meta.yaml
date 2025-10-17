@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/dickson/Delivery/mlruns/921384684294645075/517b5680c0af4ce68afa29deef34222a/artifacts
+end_time: 1760732381043
+entry_point_name: ''
+experiment_id: '921384684294645075'
+lifecycle_stage: active
+run_id: 517b5680c0af4ce68afa29deef34222a
+run_name: SVR_Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760732376956
+status: 3
+tags: []
+user_id: dickson
